@@ -1,4 +1,4 @@
-# Reading Data Visualizations in PowerBI/Microstrategy
+# Reading Data Visualizations in Power BI/MicroStrategy
 format_version: 3.0
 id: jumbo-reading-data-viz
 url: jumbo-reading-data-viz

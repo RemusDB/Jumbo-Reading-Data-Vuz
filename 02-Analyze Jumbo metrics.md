@@ -34,18 +34,18 @@ answer: 3
 
 ##### Content
 
-<p>As an assortment manager at Jumbo, you want to compare sales evolution on different time frames.Below you have the weekly revenue distribution (Consumentenomzet) by Assortimentcluster:</p>
+<p>As an assortment manager at Jumbo, you should constantly analyze sales in order to compare and explain variations over different periods of time. Below you have the weekly revenue distribution (Consumentenomzet) by Assortimentcluster:</p>
 
 <p align="middle"><img src="/static/RevenuePresentatieGroup.png" alt="recursion" align="middle" style="max-width: 100%"></p>
 
 
-##### Task: Visually identify weekly changes
+##### Task: Identify weekly changes
 type: multichoice
 answer: 2
 
 ###### Question
 
-<p>By visually analyzing the revenue distribution above, which Assortimentcluster had the highest impact in weekly increase from week 2022-14 to week 2022-15:</p>
+<p>By visually analyzing the revenue distribution above, which Assortimentcluster had the highest contribution (absolute value) to weekly increase from week 2022-14 to week 2022-15:</p>
 
 
 ###### Option #1
@@ -54,7 +54,7 @@ answer: 2
 
 ####### Option Feedback
 
-<p>Indeed.....</p>
+<p>Not quite, take a closer look again at the bar chart.</p>
 
 ###### Option #2
 
@@ -62,7 +62,7 @@ answer: 2
 
 ####### Option Feedback
 
-<p>That's correct!</p>
+<p>That's correct! Frisdranken generated 0.5M week over week sales increase.</p>
 
 ###### Option #3
 
@@ -70,11 +70,11 @@ answer: 2
 
 ####### Option Feedback
 
-<p>January was actually the month with the highest sales level, we are searching for the month with lowest sales level, take a look again.</p>
+<p>Although Brood VVP/BED/ZAV had a strong contribution to the overall weekly growth, they did not had the highest contribution.</p>
 
 ###### Hint
 
-<p>Try to visually identify the month with the lowest sales level.</p>
+<p>Compare the weekly Consumentenomzet, analyze each Assortimentcluster and identify the one which had the highest growth from week 2022-14 to 2022-15.</p>
 
 
 #### Exercise: Drill-down on Presentatiegroep ###########
